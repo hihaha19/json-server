@@ -1,5 +1,5 @@
 {
-  "posty": [
+  "posts": [
     {
       "id": 1,
       "title": "číslo 1"
@@ -13,7 +13,7 @@
       "title": "Post 3"
     }
   ],
-  "komentáre": [
+  "users": [
     {
       "id": 1,
       "body": "some comment",
