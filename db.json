@@ -2,27 +2,31 @@
   "posts": [
     {
       "id": 1,
-      "title": "číslo 1"
+      "userID": 1,
+      "title": "Nadpis 1",
+      "body": "Text prveho prispevku"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "userID": 1,
+      "title": "Nadpis cislo 2",
+      "title": "Druhy prispevok prveho pouzivatela"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "userID": 2,
+      "title": "Nadpis cislo 3",
+      "title": "Post druheho pouzivatela 3"
     }
   ],
   "users": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "userID": 1,
+      "meno": "Patrik Milý"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "userID": 2,
+      "meno": "Patrícia Vysoká"
     }
   ],
   "profile": {
