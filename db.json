@@ -20,11 +20,13 @@
     }
   ],
   "users": [
-    {
+    { 
+      "id": 1,
       "userID": 1,
       "meno": "Patrik Milý"
     },
     {
+      "id": 2,
       "userID": 2,
       "meno": "Patrícia Vysoká"
     }
