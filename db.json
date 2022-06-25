@@ -10,25 +10,23 @@
       "id": 2,
       "userID": 1,
       "title": "Nadpis cislo 2",
-      "body": "Druhy prispevok prveho pouzivatela"
+      "body": "Text 2"
     },
     {
       "id": 3,
       "userID": 2,
       "title": "Nadpis cislo 3",
-      "body": "Post druheho pouzivatela 3"
+      "body": "Text 3"
     }
   ],
   "users": [
     { 
       "id": 1,
       "userID": 1,
-      "meno": "Patrik Milý"
     },
     {
       "id": 2,
       "userID": 2,
-      "meno": "Patrícia Vysoká"
     }
   ],
   "profile": {
